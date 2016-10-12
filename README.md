@@ -1,7 +1,8 @@
-## Angular 2 QuickStart
+## Angular 2 Tour of Heroes
 by Bobby Montalvo
 
 _Following the tutorial at:_
+
 `
-https://angular.io/docs/ts/latest/quickstart.html
+https://angular.io/docs/ts/latest/tutorial/
 `
